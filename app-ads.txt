@@ -475,3 +475,5 @@ ogury.com, 9fff727e613e88347c45176936e1ff01, DIRECT
 ogury.com, 063218dcfc8a0c66e7873ed7f171a0a7, DIRECT
 ogury.com, 88534c1803dd895b4620e6a8afae001e, DIRECT
 appnexus.com, 11470, RESELLER
+
+facebook.com, 233407647319797, DIRECT, c3e20eee3f780d68
