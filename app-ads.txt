@@ -1185,3 +1185,5 @@ monetixads.com,mix-pub-3646219662,RESELLER,uufps1dh5stc6euk
 lemmatechnologies.com,1543,RESELLER,7829010c5bebd1fb
 video.unrulymedia.com,906352066,RESELLER
 pubmatic.com,165239,RESELLER,5d62403b186f2ace
+google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
+google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
